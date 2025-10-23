@@ -1,4 +1,5 @@
 # A Distortion Analyser To Evaluate Audio Compression Algorithms
+![The analyser as seen in GNU Radio Companion](ratio-mp3-distortion-rms.jpg)
 
 ## Licence
 
