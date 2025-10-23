@@ -7,6 +7,10 @@ It works by taking two WAV files of the same sample, one of which has never been
 
 You can test it by comparing an input file with itself and getting a 0% figure, and by comparing it with noise and getting a high figure.
 
+## So. Is this distortion in the classical sense?
+
+The short answer is, no. In the screenshot above we have around 3% distortion, which if it were harmonic distortion of the soft you'd get from a low quality amplifier, would be noticable. In reality the difference between the two bongo samples is barely perceptible, to hear it you'd need a very highly trained ear. All this project proves is that an MP3 encoded audio source has a significant loss of information over its uncompressed ancestor, but because isntead of a distorted version of the original it's somthing very close to the original which is intended to sound the same, it's not the same as a 3% THD figure. If it worries you, use a lossless algorithm such as FLAC.
+
 ## Licence
 
 This software is licensed under the [Creative Commons Attribution Share Alike 4.0 International licence](license.md).
