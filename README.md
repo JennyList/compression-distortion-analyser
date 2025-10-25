@@ -16,3 +16,5 @@ The short answer is, no. In the screenshot above we have nearly 4% distortion, w
 This software is licensed under the [Creative Commons Attribution Share Alike 4.0 International licence](license.md).
 
 The repository also contains two audio files derived from [Bongo_sound.wav](https://commons.wikimedia.org/wiki/File:Bongo_sound.wav), which is from MarleneAyni on Wikimedia Commons, and has a CC0 licence.
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/B0B41FD5UE)
